@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FC4F6E41-75F5-423C-BA0A-6EAD3C8B48E1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PrintDiamond</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>96C117C6803A3056E63A1FDD57FAEF390AC87787</key>
+		<string>https://github.com/iOSBoy/AlgorithmsStudy.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PrintDiamond/PrintDiamond.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>96C117C6803A3056E63A1FDD57FAEF390AC87787</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/iOSBoy/AlgorithmsStudy.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>96C117C6803A3056E63A1FDD57FAEF390AC87787</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>96C117C6803A3056E63A1FDD57FAEF390AC87787</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AlgorithmsStudy</string>
+		</dict>
+	</array>
+</dict>
+</plist>
